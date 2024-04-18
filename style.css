@@ -4,6 +4,10 @@
     font-family: sans-serif;
     box-sizing: border-box;
 }
+body{
+    background-image: url(./imgs/bg\ imgg.jpg);
+    background-size: cover;
+}
 #background-video {
     width: 100vw;
     height: 100vh;
